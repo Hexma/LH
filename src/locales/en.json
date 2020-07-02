@@ -346,6 +346,11 @@
         "picture": "./static/image/company-logo/13.png",
         "type": "AGING CONSUMER",
         "text": "Happy Prime: China's leading private senior university"
+      },
+      {
+        "picture": "./static/image/company-logo/17.png",
+        "type": "AGING CONSUMER",
+        "text": "Retirement Club: China's larget TV media platform for seniors"
       }
     ]
   },
@@ -374,10 +379,10 @@
     "moretext": "MORE NEWS"
   },
   "footer": {
-    "copyright": "© 2019 Long Hill Capital. All Rights Reserved.",
+    "copyright": "© 2020 Long Hill Capital. All Rights Reserved.",
     "shanghai": {
       "name": "SHANGHAI OFFICE",
-      "addr": ["UNIT 3101, PLAZA 66, TOWER 2", "1266 WEST NANJING ROAD 200040"]
+      "addr": ["UNIT 3101, PLAZA 66, TOWER 2", "1266 NANJING WEST ROAD 200040"]
     },
     "beijing": {
       "name": "BEIJING OFFICE",
